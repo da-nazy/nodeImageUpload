@@ -1,0 +1,29 @@
+{
+  "name": "imageupload",
+  "version": "1.0.0",
+  "description": "An image upload sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/da-nazy/nodeImageUpload.git"
+  },
+  "keywords": [
+    "image",
+    "upload",
+    "node"
+  ],
+  "author": "Ani Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/da-nazy/nodeImageUpload/issues"
+  },
+  "homepage": "https://github.com/da-nazy/nodeImageUpload#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "multer": "^1.4.3"
+  }
+}
